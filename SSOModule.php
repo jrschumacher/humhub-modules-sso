@@ -1,12 +1,12 @@
 <?php
 
 /**
- * SSOModule creates a hook to allow humhub to be your sso provider
+ * SsoModule creates a hook to allow humhub to be your sso provider
  *
  * @package humhub.modules.sso
  * @since 0.5
  */
-class SSOModule extends HWebModule
+class SsoModule extends HWebModule
 {
 
     public function init()

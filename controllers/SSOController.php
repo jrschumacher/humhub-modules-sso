@@ -1,12 +1,12 @@
 <?php
 
 /**
- * MailController provides messaging actions.
+ * SsoController allows you to use humhub as an sso authentication system
  *
- * @package humhub.modules.mail.controllers
+ * @package humhub.modules.sso.controllers
  * @since 0.5
  */
-class SSOController extends Controller
+class SsoController extends Controller
 {
 
     /**
